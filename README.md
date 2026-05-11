@@ -1,6 +1,9 @@
 # Rödpäls-Resan 🐕✨
 
-En trygg och pedagogisk guide för ägare av **Finsk Spets**. Följ hundens utveckling från den första dagen som valp till ett tryggt vuxenliv.
+### 🚀 [ÖPPNA GUIDEN LIVE HÄR!](https://chipchop87.github.io/R-dpels-Resan/)
+
+En trygg och pedagogisk guide
+ för ägare av **Finsk Spets**. Följ hundens utveckling från den första dagen som valp till ett tryggt vuxenliv.
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
