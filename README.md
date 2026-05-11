@@ -41,6 +41,18 @@ npm run dev
 npm run build
 ```
 
+## Publicering på GitHub Pages
+Repot är förberett för GitHub Pages via GitHub Actions.
+
+1. Gå till GitHub-repot.
+2. Öppna **Settings**.
+3. Öppna **Pages**.
+4. Välj **Source: GitHub Actions**.
+5. Push till main (sker automatiskt vid ändringar).
+
+När deployen är klar finns appen på:
+[https://chipchop87.github.io/R-dpels-Resan/](https://chipchop87.github.io/R-dpels-Resan/)
+
 ---
 
 ## 🛠 Teknik
